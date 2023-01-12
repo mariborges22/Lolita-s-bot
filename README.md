@@ -2,9 +2,9 @@
 A bot that makes reference to the most relevant female voice in the ASMR industry
 ### Who is Lolita:
 
- -25y
+-25y
  
- -Youtuber
+-Youtuber
 - Writer
 - Toradora fan
 
