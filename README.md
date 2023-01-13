@@ -2,6 +2,8 @@
 A bot that makes reference to the most relevant female voice in the ASMR industry
 ### Who is Lolita:
 
+![lolita1 (2)](https://user-images.githubusercontent.com/118206264/212209244-8996ef40-76d5-46a5-a82d-6fba84246606.gif)
+
 -25y
  
 -Youtuber
