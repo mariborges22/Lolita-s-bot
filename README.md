@@ -1,8 +1,7 @@
 # Lolita-s-bot
 A bot that makes reference to the most relevant female voice in the ASMR industry
 ### Who is Lolita:
-
-![lolita1 (2)](https://user-images.githubusercontent.com/118206264/212209244-8996ef40-76d5-46a5-a82d-6fba84246606.gif)
+![ririedits-riri](https://user-images.githubusercontent.com/118206264/212210221-0ba7e698-910f-4100-aeb0-9233830ee700.gif)
 
 -25y
  
