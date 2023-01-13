@@ -4,6 +4,7 @@ A bot that makes reference to the most relevant female voice in the ASMR industr
 ![ririedits-riri](https://user-images.githubusercontent.com/118206264/212210221-0ba7e698-910f-4100-aeb0-9233830ee700.gif)
 
 - 25y
+- from São Paulo-Brazil
  
 - Youtuber
 - Writer
