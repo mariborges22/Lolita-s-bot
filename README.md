@@ -34,7 +34,9 @@ First, i would like to say that this is a simple bot and is not my focus right n
 
 ### Support material:
 https://github.com/ReZeroE/AnilistPython
+
 https://github.com/Rapptz/discord.py
+
 https://developers.google.com/youtube/v3/docs?hl=pt-br
 
 
