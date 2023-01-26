@@ -39,4 +39,6 @@ https://github.com/Rapptz/discord.py
 
 https://developers.google.com/youtube/v3/docs?hl=pt-br
 
+https://gifer.com/pt/ (site dos gifs nas embeds)
+
 
