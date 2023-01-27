@@ -21,7 +21,7 @@ A bot that makes reference to the most relevant female voice in the ASMR industr
 
 
 ### How Bot works:
-First, i would like to say that this is a simple bot and is not my focus right now, but was a opportunity to work with Python language in a harder level than i used to. Althought, i could understand about apis and how it works, also knew a bit of database, and i believe that this is important for my growth in Data Science carrer.
+First, i would like to say that this is a simple bot and is not my focus right now, but was a opportunity to work with Python language in a harder level than i used to. Althought, i could understand about apis and how it works, also knew a bit of database, and i believe that this is important for my growth in Data Science career.
 
 ### Main commands:
 !recomendar: A command that choose a random anime from Anilist API to recommend animes for servers members. To put it on, the user just need to type the prefix '!' and 'recomendar' side to side to get access the commands.
